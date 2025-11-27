@@ -127,12 +127,7 @@ function Hero() {
       </div>
       <div className="relative grid gap-10 lg:grid-cols-2">
         <div className="max-w-xl space-y-6">
-          <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/10 px-3 py-2 text-xs uppercase tracking-[0.25em] text-white/70">
-            <span className="h-2 w-2 rounded-full bg-brand-red" />
-            Human energy lab
-          </div>
           <div className="space-y-4">
-            <p className="text-sm uppercase tracking-[0.3em] text-white/60">Énergie Studio</p>
             <h1 className="font-hero text-4xl leading-[1.1] text-white sm:text-5xl lg:text-6xl">
               Build power, restore calm, repeat.
             </h1>
